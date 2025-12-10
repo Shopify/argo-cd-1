@@ -6,7 +6,7 @@ ignore:
 - "**/*_test.go"
 - "pkg/apis/client/.*"
 - "pkg/client/.*"
-- "vendor/.*"
+- "vendor/.*" 
 - "test/.*"
 - "**/mocks/*"
 coverage:
